@@ -8,4 +8,4 @@ Meu progresso é gerenciado por um [project](https://github.com/users/OsirisMari
 - [x] [Dia 04 Blocos, Iterações e Coleções](https://github.com/OsirisMariano/ruby_em_7_dias/issues/4)
 - [x] [Dia 05 Gems Tratamento e Exceções](https://github.com/OsirisMariano/ruby_em_7_dias/issues/5)
 - [x] [Dia 06 Strings, Expressões Regulares e Arquivos](https://github.com/OsirisMariano/ruby_em_7_dias/issues/6)
-- [] [Dia 07 Testes Automatizados e Desenvolvimento Web (Ruby on Rails)](https://github.com/OsirisMariano/ruby_em_7_dias/issues/7)
+- [x] [Dia 07 Testes Automatizados e Desenvolvimento Web (Ruby on Rails)](https://github.com/OsirisMariano/ruby_em_7_dias/issues/7)
